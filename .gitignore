@@ -1,0 +1,26 @@
+/.settings/
+/.project
+/bin/
+.classpath
+target/
+*.iml
+/.idea
+/.vscode
+dist
+
+# JRebel
+rebel-remote.xml
+rebel.xml
+jrebel.jar
+/lib/
+/logs/
+
+Dockerfile.local
+run_local.sh
+
+# Node JS
+/node/
+node_modules
+
+# Built resources
+/src/main/webapp/WEB-INF/resources/js
